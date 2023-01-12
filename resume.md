@@ -14,7 +14,7 @@ Spatial data scientist who enjoys and excels in spatial data programming and mac
 
 ## University of Washington(Seattle, Washington)
 
-* [University of Washington][] 
+**[University of Washington][]**
 
 - Dean's list winter 2022 and spring 2022 **3.86, 3.61 GPA respectively**.
 - Geography: Data Science major
@@ -22,7 +22,8 @@ Spatial data scientist who enjoys and excels in spatial data programming and mac
 - Graduating June 2024
 
 ## South Puget Sound Community College (Olympia, Washington)
-*[South Puget Sound Community College][]
+
+**[South Puget Sound Community College][]**
 
 - Running start student, started my junior year of high school in **2018**.
 - Graduated with Associates in Business Administration, June 2021
