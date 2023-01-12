@@ -1,55 +1,58 @@
-# Your Name
+# Ronan White
 
-your.name@example.com
+rpwhite02@gmail.com
 
-http://www.example.com
+http://www.linkedin.com/in/ronanwhite
 
-http://www.linkedin.com/in/yourname
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Spatial data scientist who enjoys and excels in spatial data programming and machine learning. Programming experience in Python and R, data visualization experience in Tableau and MATLAB. Introductory experience in SQL, HTML, CSS, and JavaScript. Ability to work in a team setting as well as individually. Able to communicate effectively, both verbal and in writing.
 
-# Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+# Education
 
-* [University 1][] description, particularly if not well-known.*
+## University of Washington(Seattle, Washington)
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+* [University of Washington][] 
 
-Summary of your role
+- Dean's list winter 2022 and spring 2022 **3.86, 3.61 GPA respectively**.
+- Geography: Data Science major
+- Data Science minor
+- Graduating June 2024
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## South Puget Sound Community College (Olympia, Washington)
+*[South Puget Sound Community College][]
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+- Running start student, started my junior year of high school in **2018**.
+- Graduated with Associates in Business Administration, June 2021
+- Graduated with Associates in Arts, June 2021
+- Transferred to University of Washington after graduation
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
-Summary of your role
+# Work Experience 
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## Volkswagen of Olympia (Olympia, Washington)
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+**Service Technician** (May 2022 - September 2022)
 
 Summary of your role
 
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Performed diagnoses on customer's cars
+- Performed fluid changes, brake jobs, and tire installation and balancing
+- Communicated effectively with the service advisors at the counters on what was needed to be done
+- Helped the service department at Volkswagen of Olympia have their most profitable summer in several years
 
+## Discount Tire (Lacey, Washington)
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+**Crew Chief** (August 2020 - July 2021)
+
+Summary of your role
+
+- Pulled stock for cars that were being worked on in my cell (tires, wheels, etc.)
+- Pulled customers cars in and out of the service bays
+- Debriefed the customers on what was done to their cars, what the technicians found, etc.
+- Effectively communicated with the service techs, the service coordinator, as well as the salesmen upstairs
+
+[University of Washington]: https://www.washington.edu/
+[South Puget Sound Community College]: https://spscc.edu/
