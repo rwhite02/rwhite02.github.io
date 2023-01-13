@@ -2,7 +2,7 @@
 
 rpwhite02@gmail.com
 
-http://www.linkedin.com/in/ronanwhite
+[LinkedIn]
 
 
 # Summary
@@ -57,3 +57,4 @@ Summary of your role
 
 [University of Washington]: https://www.washington.edu/
 [South Puget Sound Community College]: https://spscc.edu/
+[LinkedIn]: linkedin.com/in/ronanwhite
