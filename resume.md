@@ -12,7 +12,7 @@ Spatial data scientist who enjoys and excels in spatial data programming and mac
 
 # Education
 
-## University of Washington(Seattle, Washington)
+## University of Washington (Seattle, Washington)
 
 **[University of Washington][]**
 
