@@ -4,7 +4,7 @@ rpwhite02@gmail.com
 
 [LinkedIn]
 
-![](portrait.jpg)
+![](portraint.png)
 
 # Summary
 
